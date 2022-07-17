@@ -1,0 +1,28 @@
+{
+  "vehicles": [
+    {
+      "id": 1,
+      "productName": "Car",
+      "categoryId": 1,
+      "productPrice": 12000
+    },
+    {
+      "id": 2,
+      "productName": "Motorcycle",
+      "categoryId": 2,
+      "productPrice": 2500
+    },
+    {
+      "id": 3,
+      "productName": "Scooter",
+      "categoryId": 2,
+      "productPrice": 450
+    },
+    {
+      "id": 4,
+      "productName": "Truck",
+      "categoryId": 1,
+      "productPrice": 17000
+    }
+  ]
+}
